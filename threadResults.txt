@@ -1,0 +1,21 @@
+a = 880130203012 b = 922823372203 d=1
+c = 8 : 40.22s user 0.26s system 98% cpu 40.914 total sum of all sqrt(x) : 8.228345e+15
+c = 4 : 40.31 user 0.03s system 99% cpu 40.426 total sum of all sqrt(x) : 1.016984e+16 
+c = 2 : 77.86 user 0.01s system 99% cpu 1:18.32 total sum of all sqrt(x) : 2.035143e+16 
+c = 1 : 148.82s user 0.01s system 99% cpu 2:29.49 total sum of all sqrt(x) : 4.053457e+16 
+
+a = 880130203012 b = 922823372203 d=2
+c = 32 : 146.66s user 0.01s system 99% cpu 2:27.27 total sum of all sqrt(x) : 4.053457e+16
+c = 16 : 146.69s user 0.01s system 99% cpu 2:27.20 total sum of all sqrt(x) : 4.053457e+16 
+c = 8 : 146.66s user 0.01s system 99% cpu 2:27.37 total sum of all sqrt(x) : 4.053457e+16
+c = 4 : 146.67s user 0.01s system 99% cpu 2:26.99 total sum of all sqrt(x) : 4.053457e+16
+c = 2 : 146.64s user 0.01s system 99% cpu 2:27.38 total sum of all sqrt(x) : 4.053457e+16
+c = 1 : 146.71s user 0.02s system 99% cpu 2:27.17 total sum of all sqrt(x) : 4.053457e+16
+
+a = 880130203012 b = 922823372203 d=3
+c = 32 : 22.30s user 0.19s system 98% cpu 22.740 total sum of all sqrt(x) : 4.053457e+16
+c = 16 : 22.23s user 0.33s system 96% cpu 23.187 total sum of all sqrt(x) : 4.053457e+16
+c = 8 : 22.29s user 0.17s system 98% cpu 22.827 total sum of all sqrt(x) : 4.053457e+16 
+c = 4 : 39.35s user 0.05s system 99% cpu 39.478 total sum of all sqrt(x) : 4.053457e+16
+c = 2 : 75.90s user 0.01s system 99% cpu 1:16.16 total sum of all sqrt(x) : 4.053457e+16 
+c = 1 : 146.67s user 0.01s system 99% cpu 2:26.98 total sum of all sqrt(x) : 4.053457e+16 
